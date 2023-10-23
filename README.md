@@ -24,9 +24,10 @@
 
 </p>
 <h1>No dudes en contactarme!</h1>
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" />
-<p>Linkedin:</p>
+Linkedin:
 <a href="https://www.linkedin.com/in/gaston-soliz/">Gaston Soliz</a>
+</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="correo" height="50" width="50">
 <p>Correo:</p>
-<></p>
