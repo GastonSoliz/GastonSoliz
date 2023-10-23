@@ -23,11 +23,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="50" height="50"/>
 
 </p>
-<h1>No dudes en contactarme!</h1>
+<h1>Contactame!</h1>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
 Linkedin:
 <a href="https://www.linkedin.com/in/gaston-soliz/">Gaston Soliz</a>
 </p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="correo" height="50" width="50">
-<p>Correo:</p>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="correo" height="30" width="30">
+Correo: gaston.e.soliz@gmail.com
+</p>
