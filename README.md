@@ -4,8 +4,8 @@
 <h1>Que hago?</h1>
 <h1>A donde me dirijo?</h1>
 <h1>Que tecnologias uso?</h1>
+<p>El Bootcamp de SoyHenry me permitio adquirir el conocimiento de las siguientes tecnologias:</p>
 <p>
-El Bootcamp de SoyHenry me permitio adquirir el conocimiento de las siguientes tecnologias:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
